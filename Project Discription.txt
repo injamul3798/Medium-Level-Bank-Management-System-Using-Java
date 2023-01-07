@@ -1,0 +1,23 @@
+We have seen the user requirements. We found two types of users:
+1.	Individual Consumer
+2.	Bank Administration
+
+In the Individual section, we got some features, which are,
+i.	View their Balance
+ii.	View their Transaction by date
+iii.	Transfer money between their own different account types
+iv.	Add new Payee
+v.	View payee
+vi.	Payment to someone who is not in the list
+vii.	Exit
+
+
+And for Bank Administration, we also got some features:
+i.	Create New Account
+ii.	Transfer money from an existing account to another existing account
+iii.	Withdraw money from existing account
+iv.	Print all existing accounts
+v.	Exit
+
+
+ -------------------Thank You---------------------------
